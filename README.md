@@ -104,9 +104,9 @@ Focused on clean backend logic and structured application design.
 
 # 📊 GitHub Stats
 
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonkumarr&show_icons=true&theme=tokyonight&hide_border=true)
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=J750N&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonkumarr&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J750N&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
