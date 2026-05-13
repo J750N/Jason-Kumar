@@ -101,8 +101,6 @@ Focused on clean backend logic and structured application design.
 
 # 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=J750N&theme=tokyonight)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=J750N&theme=tokyonight)
