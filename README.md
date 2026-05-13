@@ -104,10 +104,13 @@ Focused on clean backend logic and structured application design.
 
 # 📊 GitHub Stats
 
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=J750N&show_icons=true&theme=tokyonight&hide_border=true)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J750N&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=J750N&theme=tokyonight)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=J750N&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=J750N&theme=tokyonight)
 ---
 
 # 🌐 Connect With Me
