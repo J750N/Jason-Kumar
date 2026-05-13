@@ -1,6 +1,3 @@
-# Jason-Kumar
-You found a secret! This repository is special…
-
 # Hi, I'm Jason 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=3000&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Full-Stack+Developer;AI+%26+Analytics+Projects;Performance+Optimisation+%26+Backend+Systems)](https://git.io/typing-svg)
