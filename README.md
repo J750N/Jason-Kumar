@@ -74,6 +74,8 @@ Full-stack charity donation platform built using Next.js and SQLite.
 
 ## 🚘 Vehicle Rental System
 
+🔗 [View Repository](https://github.com/J750N/Vehicle-Rental-System)
+
 C# console-based rental system built with:
 
 - Object-Oriented Programming
